@@ -133,10 +133,11 @@ aws-netflix-scalable-infrastructure
 
 ---
 
-## ☁ Amazon EC2
+## ☁ EBS Volume Atatchment to Instance 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/06f5919a-905e-4c72-abd7-d7e697e5d8fe" width="100%">
+<img width="1067" height="480" alt="Attach_Volume" src="https://github.com/user-attachments/assets/96de0314-32ed-4f42-bf9b-cc40ef67481f" />
+
 </p>
 
 ---
