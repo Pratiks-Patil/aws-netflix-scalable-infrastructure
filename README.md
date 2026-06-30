@@ -1,7 +1,8 @@
 # 🎬 CloudFlix – Scalable Streaming Infrastructure on AWS
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="CloudFlix Banner">
+  <img width="1881" height="836" alt="ChatGPT Image Jun 30, 2026, 12_31_01 PM" src="https://github.com/user-attachments/assets/2af35c3b-d401-4e57-a9b4-802a4d48d288" />
+
 </p>
 
 <p align="center">
@@ -34,7 +35,8 @@ Rather than focusing only on frontend development, this project showcases how a 
 # 🏗 AWS Architecture
 
 <p align="center">
-<img src="architecture/cloudflix-aws-architecture.png" width="100%">
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/b9317ea9-36c9-4a79-b543-1b7febff19c5" />
+
 </p>
 
 ---
@@ -98,15 +100,6 @@ Rather than focusing only on frontend development, this project showcases how a 
 
 ```text
 aws-netflix-scalable-infrastructure
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── screenshots/
-│
-├── architecture/
-│   └── cloudflix-aws-architecture.png
-│
 ├── deployment/
 │   ├── 01-EC2-Deployment.md
 │   ├── 02-EBS-Setup.md
@@ -124,18 +117,83 @@ aws-netflix-scalable-infrastructure
 
 # 📸 Project Screenshots
 
-| Homepage | Infrastructure Dashboard |
-|-----------|--------------------------|
-| *Add Screenshot* | *Add Screenshot* |
+## 🏠 Homepage
 
-| EC2 | ALB |
-|-----|-----|
-| *Add Screenshot* | *Add Screenshot* |
+<p align="center">
+<img src="https://github.com/user-attachments/assets/398c9a8c-16c1-4471-aa3c-87d7709f5799" width="100%">
+</p>
 
-| Auto Scaling | EBS |
-|--------------|-----|
-| *Add Screenshot* | *Add Screenshot* |
+---
 
+## 🌐 Website Access via ALB
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/81c04e7e-c6b5-48f0-92cb-493796b1dfc8" width="100%">
+</p>
+
+---
+
+## ☁ Amazon EC2
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/06f5919a-905e-4c72-abd7-d7e697e5d8fe" width="100%">
+</p>
+
+---
+
+## ⚖ Application Load Balancer
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/21b4aee8-0f4c-4128-9402-3cc1dd3ddfbb" width="100%">
+</p>
+
+---
+
+## 📈 Auto Scaling Group
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c8f04e4c-76c0-4bb1-a622-bcd887375c9d" width="100%">
+</p>
+
+---
+
+## 💾 Amazon EBS
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/19ca9507-9d29-4708-be89-18195385859b" width="100%">
+</p>
+
+---
+
+## 🔒 Verifying EBS from SSH
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/feb027a0-ec1f-441c-a1d9-0a3c116b19d0" width="100%">
+</p>
+
+---
+
+## ✅ EBS Persistence Verification
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c9291782-8432-4fbc-8f94-479e59b21c81" width="100%">
+</p>
+
+---
+
+## 🚀 Launch Template
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0bd04485-f7e6-4a37-95ed-b24ae7bef6df" width="100%">
+</p>
+
+---
+
+## 🎯 Target Group
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/161f45b9-c173-4311-b8b0-8ffcfd7fb676" width="100%">
+</p>
 ---
 
 # 🚀 Deployment Summary
